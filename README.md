@@ -18,7 +18,7 @@ every result table in the manuscript. For more information, see
 
 ---
 
-## Repository structure
+## 1. Repository structure
 
 ```
 .
@@ -61,7 +61,7 @@ requires both `01_` and `02_`; script `06_` requires both `02_` and `05_`.
 
 ---
 
-## 1. System requirements
+## 2. System requirements
 The pipeline is plain R and runs on any platform with a working R installation.
 
 ### Software dependencies
@@ -103,7 +103,7 @@ of `tidyverse` but are not used directly in this section of the pipeline.
 4. Run the demo scripts in order.
 ---
 
-## 2. Demo
+## 3. Demo
 
 ### Generating the simulated input data
 
@@ -135,7 +135,7 @@ Seven files in `simulated_output_data/`:
 
 ---
 
-## Additional information
+## 4. Additional information
 
 ### License
 
