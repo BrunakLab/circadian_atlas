@@ -1,0 +1,22 @@
+# Generated demo data — recreated by running the pipeline (see README)
+simulated_input_data/*
+simulated_output_data/*
+!simulated_input_data/.gitkeep
+!simulated_output_data/.gitkeep
+
+# R — history and session data
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+
+# R — user-specific and RStudio state
+.Ruserdata
+.Rproj.user/
+
+# R — environment variables
+.Renviron
+
+
+# macOS
+.DS_Store
