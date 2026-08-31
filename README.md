@@ -101,6 +101,11 @@ of `tidyverse` but are not used directly in this section of the pipeline.
    install.packages(c("tidyverse", "broom", "fixest"))
    ```
 4. Run the demo scripts in order.
+
+
+The installation should take between 3-5 minutes.
+
+
 ---
 
 ## 3. Demo
@@ -132,6 +137,8 @@ Seven files in `simulated_output_data/`:
 | `4.acrophase_age_correlation.tsv` | 4 | 8 | Mardia *R²*, permutation *p*, FDR *q*, acrophase velocity and direction, per biomarker |
 | `5.logistic_regression_results.tsv` | 24 | 8 | odds ratios and CIs per biomarker for classification, age and sex |
 | `6.summary_data_statistics_meta_regression.tsv` | 2 | 8 | meta-regression of log(FN odds ratio) on standardized amplitude |
+
+Running the demo should take between 1-3 minutes depending on the computer.
 
 ---
 
