@@ -62,7 +62,7 @@ requires both `01_` and `02_`; script `06_` requires both `02_` and `05_`.
 ---
 
 ## 2. System requirements
-The pipeline is plain R and runs on any platform with a working R installation.
+The pipeline is plain R and runs on any platform with a working R installation. Software dependencies for the demo might differ from software versions used in the analysis of the full data.
 
 ### Software dependencies
 
